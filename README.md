@@ -17,7 +17,7 @@ The model achieves **~96% accuracy**, and the repository contains scripts for tr
 ## Results
 
 - **Accuracy & Loss Graph:**
-![Accuracy2](images/accuracy_graph.png)
+![Accuracy](images/accuracy_graph.png)
  
 ![Accuracy & Loss](images/accuracy_loss_graph.png)
 
