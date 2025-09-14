@@ -14,6 +14,16 @@ The model achieves **~96% accuracy**, and the repository contains scripts for tr
 - Images of handwritten letters in `.bmp` format
 - Images resized to `28x28` pixels for model training
 
+## Results
+
+- **Accuracy & Loss Graph:**  
+![Accuracy & Loss](screenshots/accuracy_loss_graph.png)
+
+- **Sample Manuscript Letters:**  
+![Letter 1](screenshots/sample_letter1.png)  
+![Letter 2](screenshots/sample_letter2.png)
+
+
 ## Installation
 Clone this repository and install the dependencies:
 
