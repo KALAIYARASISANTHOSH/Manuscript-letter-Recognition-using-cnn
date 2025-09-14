@@ -16,12 +16,13 @@ The model achieves **~96% accuracy**, and the repository contains scripts for tr
 
 ## Results
 
-- **Accuracy & Loss Graph:**  
-![Accuracy & Loss](screenshots/accuracy_loss_graph.png)
+- **Accuracy & Loss Graph:**
+![Accuracy2](images/accuracy_graph.png)
+ 
+![Accuracy & Loss](images/accuracy_loss_graph.png)
 
 - **Sample Manuscript Letters:**  
-![Letter 1](screenshots/sample_letter1.png)  
-![Letter 2](screenshots/sample_letter2.png)
+![Letter 1](images/sample_letter1.png)  
 
 
 ## Installation
